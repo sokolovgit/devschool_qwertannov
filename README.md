@@ -22,7 +22,7 @@
 - Електронна пошта: sokolov.oleksandr1@lll.kpi.ua
 - Telegram: @qwertannov
 - Instagram: @sanok_sokolov
-- 
+  
 ## Ліцензія
 
 Цей проект ліцензований під [Ліцензією MIT](LICENSE).
